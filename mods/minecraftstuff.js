@@ -12,13 +12,13 @@ elements.mc_water = {
 elements.mc_lava = {
 	color: "#ff9f29",
 	behavior: behaviors.LIQUID,
-	category: "Minecraft",
+	category: "minecraft",
 	state: "liquid",
 };
 
 elements.mc_cobblestone = {
 	color: "#666666",
 	behavior: behaviors.WALL,
-	category: "Minecraft",
+	category: "land",
 	state: "solid",
 };
